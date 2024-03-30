@@ -1,0 +1,41 @@
+.mainContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+  width: 100vw;
+}
+
+.titleContainer {
+  display: flex;
+  flex-direction: column;
+  font-size: 40px;
+  font-weight: bolder;
+  align-items: center;
+  justify-content: center;
+}
+
+.loginButtonWidth {
+  width: 100%;
+}
+
+.justifyCenter {
+  display: flex;
+  justify-content: center;
+}
+
+.justifyStart {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.justifyEnd {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.alignCenter {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
